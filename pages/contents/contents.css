@@ -1,0 +1,14 @@
+table, th, td {
+    width: -webkit-fill-available;
+    border: 2px solid black;
+    text-align: center;
+}
+
+table {
+    margin: 10px 0;
+}
+
+/* p {
+    margin-bottom: 5%;
+} */
+
